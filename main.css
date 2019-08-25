@@ -1,0 +1,52 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;}
+body {
+	    font-family: 'Poppins', sans-serif;
+}
+header, aside, article, footer, section, main, figure, figcaption {
+
+  display: block;
+}
+
+
+.topnav {
+    width: 100%;
+    margin: auto;
+    padding: 1.2rem 0;
+    background: #236B00;
+    overflow: hidden;
+}
+.topnav a {
+
+    text-align: center;
+    padding: 1.0rem 1.7rem;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+.topnav a:hover {
+  color: white;
+}
+
+.navbar ul li {
+  display: inline;
+  padding-top: 1.3rem
+}
+
+header {
+    background-color: white;
+       padding: 0;
+    color: white;
+    text-align: center;
+}
+p, h2, h3 {
+    line-height: 27px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: 'ABeeZee', sans-serif;
+    color: #000000;
+    padding-top: 1.3rem;
+}
